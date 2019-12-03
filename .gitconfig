@@ -1,0 +1,9 @@
+[user]
+	name = deepti
+	email = deepti123@gmail.com
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto

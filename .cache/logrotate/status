@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/aditidesai/.cache/upstart/unity-settings-daemon.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/unity7.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/upstart-event-bridge.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/indicator-sound.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/gnome-keyring-ssh.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/unity-panel-service.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/dbus.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/ssh-agent.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/window-stack-bridge.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/update-notifier-release.log" 2019-12-2-18:0:0
+"/home/aditidesai/.cache/upstart/gpg-agent.log" 2019-12-2-18:47:1
+"/home/aditidesai/.cache/upstart/hud.log" 2019-12-2-18:47:1
